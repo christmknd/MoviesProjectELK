@@ -1,0 +1,9 @@
+{
+  "name": "ELK",
+  "version": "1.0.0",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21",
+    "yargs": "^17.1.1"
+  }
+}
