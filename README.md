@@ -9,7 +9,7 @@ Moteur de recherche de films , basé sur la Stack ELK
  Docker 
 
 # Backend
- els.js ( creation de l'index , bulk et requêtes)
+ els.js ( creation de l\'index , bulk et requêtes)
  main.js (initialisation de la vue)
  movies.json / request-data.txt (database)
 
